@@ -19,6 +19,10 @@ Many Chilean workers face significant workplace safety issues. Direcci&#243;n de
 
 I co-authored this paper with [Dr. Kelly McConville](https://blogs.swarthmore.edu/kelly-mcconville/). It advises statistics educators on how to teach basic data wrangling and visualization in R with `dplyr` and `ggplot2` using the [Global Volcanism Program's terrific data](https://volcano.si.edu/). This paper is currently in the review process, and we hope it will be published soon.
 
+### [The Reality Gap: Implementing NEAT with a Scribbler Robot](https://www.cs.swarthmore.edu/~meeden/cs81/f17/projects/AlisonEmma.pdf)
+
+Alison Rosenzweig and I explored moving a simulated adaptive robot into reality, creating some fun abstract art in the process.
+
 ### [Gerrymandering and Impossibility]({{ site.baseurl }}/images/capstone_emma.pdf)
 
 I wrote my senior capstone paper (a kind of expository thesis) about some mathematical aspects of drawing and evaluating districts that make gerrymandering a difficult problem to solve. Please excuse some logical holes and preference for math over larger political context.
