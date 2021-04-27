@@ -29,11 +29,11 @@ I wrote my senior capstone paper (a kind of expository thesis) about some mathem
 
 ### [Pill Image Segmentation](https://github.com/emmaremy/pill-images)
 
-Inspired by the 2016 NLM Pill Recognition Challenge, we segmented pills from backgrounds for reference images of pills. This was a project for a 2017 course in Bioinformatics.
+Inspired by the 2016 NLM Pill Recognition Challenge, we segmented pills from backgrounds for reference images of pills.
 
 ### [Metaballs](https://github.com/emmaremy/cs40-metaballs)
 
-We used C++ and OpenGPL to implement 3-D [metaballs](http://jamie-wong.com/2014/08/19/metaballs-and-marching-squares/). This was a project for a 2016 course in Computer Graphics.
+We used C++ and OpenGPL to implement 3-D [metaballs](http://jamie-wong.com/2014/08/19/metaballs-and-marching-squares/).
 
 ## Conferences and events
 
@@ -43,7 +43,7 @@ As an extension of the paper I wrote with Dr. McConville, I presented a virtual 
 
 ### [Peripeteia weekend](https://emmaremy.github.io/peripeteia/)
 
-Peripeteia is an annual event where people from the Swarthmore College community teach short courses on diverse topics. I helped organize this in its inaugural year (2016), as well as in 2017 and 2018. I also created and maintained the website, and helped organize smaller-scale events related to Peripeteia.
+Peripeteia is an annual event where people from the Swarthmore College community teach short courses on diverse topics. I helped organize this in its inaugural year, as well as the two subsequent years. I also created and maintained the website, and helped organize smaller-scale events related to Peripeteia.
 
 ### Grace Hopper Celebration for Women in Computing
 
@@ -53,7 +53,7 @@ In 2017, I was awarded the celebrated scholarship from AnitaB.org and attended G
 
 ### [HealthyTexts](https://github.com/emmaremy/lhd-16)
 
-This project won the "Sponsored Prize" at Local Hack Day 2016 Swarthmore. It is an SMS service for sending health reminders -- our goal was to make the functionality of many fitness tracking smartphone apps accessible to those who do not have or are not comfortable with smartphone technology. This was built using the Twilio API.
+This project won the "Sponsored Prize" at Local Hack Day Swarthmore. It is an SMS service for sending health reminders -- our goal was to make the functionality of many fitness tracking smartphone apps accessible to those who do not have or are not comfortable with smartphone technology. This was built using the Twilio API.
 
 ### [Bahasa Wooi language learning tool](https://github.com/emmaremy/wooi)
 
@@ -61,7 +61,7 @@ An in-progress simple website teaching the basics of bahasa Wooi, a language spo
 
 ### [Volcano explorer](https://github.com/emmaremy/minimalvolcano)
 
-I created this R Shiny app in 2016 using the [Global Volcanism Program's data](https://volcano.si.edu) and Leaflet. This was one of the first R Shiny apps I created, and I have since explored the idea of [replicating it using D3.js](https://github.com/emmaremy/volcano-js).
+I created this R Shiny app using the [Global Volcanism Program's data](https://volcano.si.edu) and Leaflet. This was one of the first R Shiny apps I created, and I have since explored the idea of [replicating it using D3.js](https://github.com/emmaremy/volcano-js).
 
 ### [California arrest data interactive](https://github.com/emmaremy/arrest-rates)
 
