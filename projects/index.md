@@ -13,6 +13,10 @@ While a great deal of my work at Pew has been focused on improving my team's wor
 
 Many Chilean workers face significant workplace safety issues. Direcci&#243;n del Trabajo, Chile’s labour agency, is responsible for reducing the risks workers face through performing inspections and remediations. However, a lot of time has been spent inspecting facilities reactively based on complaints. My team built a pipeline in Python to move data from its raw format to clean Postgres databases, run machine learning models, and evaluate the results of these models to help DT identify facilities to prioritize in future inspections. This was complicated, and messy, so feel free to reach out for more details.
 
+### [Understanding Illinois Legal Aid Online's Users and their Needs](https://github.com/emmaremy/solve-ilao-public)
+
+As a volunteer project manager with [DSSG Solve](https://www.solveforgood.org/), I led a team working with [ILAO](https://www.illinoislegalaid.org/) to find patterns in usage of the resources on the site with the aim of providing those resources to users more proactively to ensure they have access to everything they need.
+
 ## Academic work
 
 ### Are Volcanic Eruptions Increasing?: An example of teaching data wrangling and visualization
