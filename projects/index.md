@@ -5,7 +5,7 @@ title: projects
 
 ## Professional work
 
-### [Various publications with the Pew Research Center](https://www.pewresearch.org/staff/emma-remy/)
+### [Various publications with the Pew Research Center](https://www.pewresearch.org/staff/emma-remy/) [(including some more on the methodological side)](https://medium.com/@eremy)
 
 While a great deal of my work at Pew has been focused on improving my team's workflows, educating staff on how to use data science tools, and quality checking, I have also contributed to a number of reports, primarily focusing on Twitter use by U.S. adults.
 
