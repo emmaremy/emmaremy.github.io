@@ -17,7 +17,7 @@ Many Chilean workers face significant workplace safety issues. Direcci&#243;n de
 
 As a volunteer project manager with [DSSG Solve](https://www.solveforgood.org/), I led a team working with [ILAO](https://www.illinoislegalaid.org/) to find patterns in usage of the resources on the site with the aim of providing those resources to users more proactively to ensure they have access to everything they need.
 
-## Academic work
+## Publications
 
 ### [Using Administrative Records and Survey Data to Construct Samples of Tweeters and Tweets](https://sdmccabe.github.io/files/hughes_constructing_2020.pdf)
 
@@ -26,6 +26,8 @@ Hughes, Adam G., Stefan D. McCabe, William R. Hobbs, Emma Remy, Sono Shah, and D
 ### Are Volcanic Eruptions Increasing?: An example of teaching data wrangling and visualization
 
 In review: A paper co-authored with [Dr. Kelly McConville](https://blogs.swarthmore.edu/kelly-mcconville/) advising statistics educators on how to teach basic data wrangling and visualization in R with `dplyr` and `ggplot2` using the [Global Volcanism Program's terrific data](https://volcano.si.edu/).
+
+## Other academic work
 
 ### [The Reality Gap: Implementing NEAT with a Scribbler Robot](https://www.cs.swarthmore.edu/~meeden/cs81/f17/projects/AlisonEmma.pdf)
 
