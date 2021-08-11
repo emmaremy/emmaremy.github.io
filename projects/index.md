@@ -19,6 +19,10 @@ As a volunteer project manager with [DSSG Solve](https://www.solveforgood.org/),
 
 ## Academic work
 
+### [Using Administrative Records and Survey Data to Construct Samples of Tweeters and Tweets](https://sdmccabe.github.io/files/hughes_constructing_2020.pdf)
+
+Hughes, Adam G., Stefan D. McCabe, William R. Hobbs, Emma Remy, Sono Shah, and David M. J. Lazer. Forthcoming in _Public Opinion Quarterly_. “Using Administrative Records and Survey Data to Construct Samples of Tweeters and Tweets.” https://doi.org/10.1093/poq/nfab020.
+
 ### Are Volcanic Eruptions Increasing?: An example of teaching data wrangling and visualization
 
 I co-authored this paper with [Dr. Kelly McConville](https://blogs.swarthmore.edu/kelly-mcconville/). It advises statistics educators on how to teach basic data wrangling and visualization in R with `dplyr` and `ggplot2` using the [Global Volcanism Program's terrific data](https://volcano.si.edu/). This paper is currently in the review process, and we hope it will be published soon.
