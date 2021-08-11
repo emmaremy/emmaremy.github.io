@@ -25,7 +25,7 @@ Hughes, Adam G., Stefan D. McCabe, William R. Hobbs, Emma Remy, Sono Shah, and D
 
 ### Are Volcanic Eruptions Increasing?: An example of teaching data wrangling and visualization
 
-I co-authored this paper with [Dr. Kelly McConville](https://blogs.swarthmore.edu/kelly-mcconville/). It advises statistics educators on how to teach basic data wrangling and visualization in R with `dplyr` and `ggplot2` using the [Global Volcanism Program's terrific data](https://volcano.si.edu/). This paper is currently in the review process, and we hope it will be published soon.
+In review: A paper co-authored with [Dr. Kelly McConville](https://blogs.swarthmore.edu/kelly-mcconville/) advising statistics educators on how to teach basic data wrangling and visualization in R with `dplyr` and `ggplot2` using the [Global Volcanism Program's terrific data](https://volcano.si.edu/).
 
 ### [The Reality Gap: Implementing NEAT with a Scribbler Robot](https://www.cs.swarthmore.edu/~meeden/cs81/f17/projects/AlisonEmma.pdf)
 
