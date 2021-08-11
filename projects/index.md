@@ -33,13 +33,13 @@ In review: A paper co-authored with [Dr. Kelly McConville](https://blogs.swarthm
 
 Alison Rosenzweig and I explored moving a simulated adaptive robot into reality, creating some fun abstract art in the process.
 
-### [Gerrymandering and Impossibility]({{ site.baseurl }}/images/capstone_emma.pdf)
+### [Gerrymandering and Impossibility]({{ site.baseurl }}/images/capstone_poster.pdf)
 
-I wrote my senior capstone paper (a kind of expository thesis) about some mathematical aspects of drawing and evaluating districts that make gerrymandering a difficult problem to solve. Please excuse some logical holes and preference for math over larger political context.
+I wrote my senior capstone paper (a kind of expository thesis) about some mathematical aspects of drawing and evaluating districts that make gerrymandering a difficult problem to solve. 
 
 ### [Pill Image Segmentation](https://github.com/emmaremy/pill-images)
 
-Inspired by the 2016 NLM Pill Recognition Challenge, we segmented pills from backgrounds for reference images of pills.
+Inspired by the 2016 NLM Pill Recognition Challenge, we segmented pills from backgrounds in reference images of pills.
 
 ### [Metaballs](https://github.com/emmaremy/cs40-metaballs)
 
@@ -71,8 +71,8 @@ An in-progress simple website teaching the basics of bahasa Wooi, a language spo
 
 ### [Volcano explorer](https://github.com/emmaremy/minimalvolcano)
 
-I created this R Shiny app using the [Global Volcanism Program's data](https://volcano.si.edu) and Leaflet. This was one of the first R Shiny apps I created, and I have since explored the idea of [replicating it using D3.js](https://github.com/emmaremy/volcano-js).
+An R Shiny app visualizing volcano locations and information using the [Global Volcanism Program's data](https://volcano.si.edu) and Leaflet. I have since explored the idea of [replicating this using D3.js](https://github.com/emmaremy/volcano-js).
 
 ### [California arrest data interactive](https://github.com/emmaremy/arrest-rates)
 
-My first R Shiny app ever allows users to explore arrest rates for different demographic groups. This was created as a project for a course in 2015, but we took it a little further than the assignment required.
+A simple R Shiny app that allows users to explore arrest rates for different demographic groups.
