@@ -21,7 +21,7 @@ As a volunteer project manager with [DSSG Solve](https://www.solveforgood.org/),
 
 ### [Using Administrative Records and Survey Data to Construct Samples of Tweeters and Tweets](https://sdmccabe.github.io/files/hughes_constructing_2020.pdf)
 
-Hughes, Adam G., Stefan D. McCabe, William R. Hobbs, Emma Remy, Sono Shah, and David M. J. Lazer. Forthcoming in _Public Opinion Quarterly_. “Using Administrative Records and Survey Data to Construct Samples of Tweeters and Tweets.” https://doi.org/10.1093/poq/nfab020.
+Hughes, Adam G., Stefan D. McCabe, William R. Hobbs, Emma Remy, Sono Shah, and David M. J. Lazer. Forthcoming in _Public Opinion Quarterly_. “Using Administrative Records and Survey Data to Construct Samples of Tweeters and Tweets.” [https://doi.org/10.1093/poq/nfab020](https://doi.org/10.1093/poq/nfab020).
 
 ### Are Volcanic Eruptions Increasing?: An example of teaching data wrangling and visualization
 
